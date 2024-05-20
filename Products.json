@@ -1,0 +1,92 @@
+[
+  {
+    "title": "coca cola 2L",
+    "desc": "Bebida gasesosa cola 2 litros",
+    "price": 1700,
+    "thumbnail": "Sin Imagen",
+    "code": 30002,
+    "stock": 120,
+    "id": 1
+  },
+  {
+    "title": "Pepsi 2L",
+    "desc": "Bebida gaseosa pepsi 2 litros",
+    "price": 1600,
+    "thumbnail": "Sin Imagen",
+    "code": 30003,
+    "stock": 100,
+    "id": 2
+  },
+  {
+    "title": "Sprite 2L",
+    "desc": "Bebida gaseosa sprite 2 litros",
+    "price": 1500,
+    "thumbnail": "Sin Imagen",
+    "code": 30004,
+    "stock": 80,
+    "id": 3
+  },
+  {
+    "title": "Fanta 2L",
+    "desc": "Bebida gaseosa fanta 2 litros",
+    "price": 1400,
+    "thumbnail": "Sin Imagen",
+    "code": 30005,
+    "stock": 90,
+    "id": 4
+  },
+  {
+    "title": "Oreos 118g",
+    "desc": "Galletitas OREO clasicas 118 gramos",
+    "price": 900,
+    "thumbnail": "Sin Imagen",
+    "code": 30006,
+    "stock": 500,
+    "id": 5
+  },
+  {
+    "title": "Dulce de Leche 400g",
+    "desc": "Dulce de leche tradicional argentino 400 gramos",
+    "price": 750,
+    "thumbnail": "Sin Imagen",
+    "code": 30007,
+    "stock": 400,
+    "id": 6
+  },
+  {
+    "title": "Yerba Mate 500g",
+    "desc": "Yerba mate seleccionada con palo 500 gramos",
+    "price": 550,
+    "thumbnail": "Sin Imagen",
+    "code": 30008,
+    "stock": 600,
+    "id": 7
+  },
+  {
+    "title": "Vino Malbec 750ml",
+    "desc": "Vino Malbec argentino de alta calidad 750 ml",
+    "price": 1200,
+    "thumbnail": "Sin Imagen",
+    "code": 30009,
+    "stock": 300,
+    "id": 8
+  },
+  {
+    "title": "Alfajores de Maicena",
+    "desc": "Alfajores de maicena rellenos de dulce de leche 300 gramos",
+    "price": 650,
+    "thumbnail": "Sin Imagen",
+    "code": 30010,
+    "stock": 450,
+    "id": 9
+  },
+  {
+    "title": "Fernet 750ml",
+    "desc": "Fernet argentino, bebida alcohólica amarga 750 ml",
+    "price": 1300,
+    "thumbnail": "Sin Imagen",
+    "code": 30011,
+    "stock": 350,
+    "id": 10
+  }
+]
